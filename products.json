@@ -1,0 +1,416 @@
+{
+    "MurilosTennisShop": {
+        "products": [
+            {
+                "code": "000-01",
+                "category": "Racket",
+                "brand": "AceVantage",
+                "model": "Pro Play",
+                "price": "€230.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.1"
+            },
+            {
+                "code": "000-02",
+                "category": "Racket",
+                "brand": "AceVantage",
+                "model": "Pro Play 2.0",
+                "price": "€250.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "000-03",
+                "category": "Racket",
+                "brand": "SpinStrike",
+                "model": "Carbon Pro",
+                "price": "€230.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.3"
+            },
+            {
+                "code": "000-04",
+                "category": "Racket",
+                "brand": "SpinStrike",
+                "model": "Rad 4.0",
+                "price": "€240.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "000-05",
+                "category": "Racket",
+                "brand": "Baseline Pro",
+                "model": "Sharp 2000",
+                "price": "€230.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.2"
+            },
+            {
+                "code": "000-06",
+                "category": "Racket",
+                "brand": "Baseline Pro",
+                "model": "Pro RF",
+                "price": "€350.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.9"
+            },
+            {
+                "code": "001-01",
+                "category": "Ball",
+                "brand": "AceVantage",
+                "model": "Gold All Court",
+                "price": "€12.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Apr/2032",
+                "rating": "4.2"
+            },
+            {
+                "code": "001-02",
+                "category": "Ball",
+                "brand": "AceVantage",
+                "model": "Silver All Court",
+                "price": "€11.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "May/2032",
+                "rating": "4.7"
+            },
+            {
+                "code": "001-03",
+                "category": "Ball",
+                "brand": "SpinStrike",
+                "model": "Championship",
+                "price": "€11.50",
+                "stockStatus": "In Stock",
+                "expirationDate": "Apr/2032",
+                "rating": "4.8"
+            },
+            {
+                "code": "001-04",
+                "category": "Ball",
+                "brand": "SpinStrike",
+                "model": "Velocity",
+                "price": "€10.50",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "May/2032",
+                "rating": "4.7"
+            },
+            {
+                "code": "001-05",
+                "category": "Ball",
+                "brand": "Baseline Pro",
+                "model": "America Open",
+                "price": "€12.50",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Apr/2032",
+                "rating": "4.8"
+            },
+            {
+                "code": "001-06",
+                "category": "Ball",
+                "brand": "Baseline Pro",
+                "model": "Heavy Duty",
+                "price": "€11.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Mar/2032",
+                "rating": "4.6"
+            },
+            {
+                "code": "002-01",
+                "category": "Shoe",
+                "brand": "SpinStrike",
+                "model": "Supersonic 4",
+                "price": "€130.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.4"
+            },
+            {
+                "code": "002-02",
+                "category": "Shoe",
+                "brand": "SpinStrike",
+                "model": "Grass Pro",
+                "price": "€120.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "002-03",
+                "category": "Shoe",
+                "brand": "AceVantage",
+                "model": "Clay Pro",
+                "price": "€140.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "002-04",
+                "category": "Shoe",
+                "brand": "AceVantage",
+                "model": "All Court Pro",
+                "price": "€130.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "002-05",
+                "category": "Shoe",
+                "brand": "Baseline Pro",
+                "model": "Comfort pro",
+                "price": "€140.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Pre-Order",
+                "rating": "4.7"
+            },
+            {
+                "code": "002-06",
+                "category": "Shoe",
+                "brand": "Baseline Pro",
+                "model": "Hard Court Max",
+                "price": "€130.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "003-01",
+                "category": "String",
+                "brand": "AceVantage",
+                "model": "XYZ 1.25mm (12m)",
+                "price": "€22.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "003-02",
+                "category": "String",
+                "brand": "AceVantage",
+                "model": "Master 1.30mm (12m)",
+                "price": "€22.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "003-03",
+                "category": "String",
+                "brand": "SpinStrike",
+                "model": "Falcon 1.25mm (12m)",
+                "price": "€18.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "003-04",
+                "category": "String",
+                "brand": "SpinStrike",
+                "model": "FO 1.30mm (12m)",
+                "price": "€19.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "003-05",
+                "category": "String",
+                "brand": "Baseline Pro",
+                "model": "MCB 1.30mm (12m)",
+                "price": "€22.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "003-06",
+                "category": "String",
+                "brand": "Baseline Pro",
+                "model": "Master Rev 1.25mm (12m)",
+                "price": "€20.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.2"
+            },
+            {
+                "code": "004-01",
+                "category": "OverGrip",
+                "brand": "AceVantage",
+                "model": "Original",
+                "price": "€10.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "004-02",
+                "category": "OverGrip",
+                "brand": "AceVantage",
+                "model": "Tour",
+                "price": "€9.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "004-03",
+                "category": "OverGrip",
+                "brand": "SpinStrike",
+                "model": "Hydro",
+                "price": "€9.50",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "004-04",
+                "category": "OverGrip",
+                "brand": "SpinStrike",
+                "model": "Chief",
+                "price": "€8.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.5"
+            },
+            {
+                "code": "004-05",
+                "category": "OverGrip",
+                "brand": "Baseline Pro",
+                "model": "Professional",
+                "price": "€10.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "004-06",
+                "category": "OverGrip",
+                "brand": "Baseline Pro",
+                "model": "Max Pro",
+                "price": "€9.00",
+                "stockStatus": "Out of Stock",
+                "expirationDate": "Null",
+                "rating": "4.2"
+            },
+            {
+                "code": "005-01",
+                "category": "ShockAbsorber",
+                "brand": "AceVantage",
+                "model": "Soft Damp",
+                "price": "€7.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "005-02",
+                "category": "ShockAbsorber",
+                "brand": "AceVantage",
+                "model": "Custom",
+                "price": "€8.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "005-03",
+                "category": "ShockAbsorber",
+                "brand": "SpinStrike",
+                "model": "Buster Max",
+                "price": "€6.50",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.7"
+            },
+            {
+                "code": "005-04",
+                "category": "ShockAbsorber",
+                "brand": "SpinStrike",
+                "model": "Golden",
+                "price": "€5.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.5"
+            },
+            {
+                "code": "005-05",
+                "category": "ShockAbsorber",
+                "brand": "Baseline Pro",
+                "model": "Max Feel",
+                "price": "€8.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "005-06",
+                "category": "ShockAbsorber",
+                "brand": "Baseline Pro",
+                "model": "Super Shock",
+                "price": "€7.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.6"
+            },
+            {
+                "code": "006-01",
+                "category": "Bag",
+                "brand": "AceVantage",
+                "model": "Pro Backpack",
+                "price": "€70.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.2"
+            },
+            {
+                "code": "006-02",
+                "category": "Bag",
+                "brand": "AceVantage",
+                "model": "Professional Tennis Bag",
+                "price": "€60.00",
+                "stockStatus": "In Stock",
+                "expirationDate": "Null",
+                "rating": "4.5"
+            },
+            {
+                "code": "006-03",
+                "category": "Bag",
+                "brand": "SpinStrike",
+                "model": "Bjorn Max",
+                "price": "€85.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.8"
+            },
+            {
+                "code": "006-04",
+                "category": "Bag",
+                "brand": "SpinStrike",
+                "model": "Pro Tour",
+                "price": "€50.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "4.9"
+            },
+            {
+                "code": "006-05",
+                "category": "Bag",
+                "brand": "Baseline Pro",
+                "model": "Sport Gear",
+                "price": "€55.00",
+                "stockStatus": "Pre-Order",
+                "expirationDate": "Null",
+                "rating": "5.0"
+            }            
+        ]
+    }
+}
